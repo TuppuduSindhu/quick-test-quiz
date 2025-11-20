@@ -20,6 +20,20 @@ The project is:
 It comes with a well-organized folder structure, ready-to-use components, and a powerful development setup that updates instantly whenever you make changes.
 
 ---
+## 📸 Screenshots
+
+### Screenshot 1
+![Screenshot 1](./Screenshot%202025-11-20%20112944.png)
+
+### Screenshot 2
+![Screenshot 2](./Screenshot%202025-11-20%20112958.png)
+
+### Screenshot 3
+![Screenshot 3](./Screenshot%202025-11-20%20113021.png)
+
+### Screenshot 4
+![Screenshot 4](./Screenshot%202025-11-20%20113034.png)
+
 
 # 🛠️ Technologies Used (Explained Simply)
 
