@@ -149,12 +149,4 @@ To put it all together:
 * **Tailwind CSS** → Makes styling simple
 * **shadcn-ui** → Gives you beautiful components
 
-This combination creates a solid, modern foundation for any front-end project.
 
-
-
-✅ A friendly README
-✅ Feature list
-✅ Step-by-step setup guide
-✅ How to extend this project
-Just tell me!
