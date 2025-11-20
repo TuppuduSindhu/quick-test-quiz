@@ -1,6 +1,3 @@
-Here is a **clean, simple, URL-free** version that only explains the project and the tech stack used:
-
----
 
 # Project Overview
 
@@ -41,6 +38,3 @@ This project is a modern web application built using a fast, flexible, and devel
 
 This project uses a modern, high-performance tech stack suitable for building scalable and visually appealing web applications. With React as the core framework, TypeScript for reliability, and Vite for development speed, the setup ensures an excellent developer experience. Tailwind CSS and shadcn-ui provide a rich set of styling tools and components to build polished, production-ready user interfaces.
 
----
-
-If you want, I can also format this as a **README**, add a **feature list**, or include **setup instructions**.
