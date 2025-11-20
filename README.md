@@ -137,6 +137,8 @@ The project is designed so you can **focus on features and design**, not setup.
 
 ---
 
+Live link :   https://time-quiz-triumph.lovable.app/
+---
 # 💡 Summary
 
 To put it all together:
